@@ -1,8 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Sherzod</h1>
 <h3 align="center" style="color:#DCDCDC;">A passionate Frontend developer from Uzbekistan</h3>
 
-
-
 ---
 
 ### 💻 Languages and Tools:
@@ -38,6 +36,9 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
   </a>
+  <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/72518640?s=200&v=4" alt="Tanstack Query" width="40" height="40" />
+  </a>
 </p>
 
 ---
@@ -47,22 +48,18 @@
   <img src="https://komarev.com/ghpvc/?username=sherzod0220&label=Profile%20views&color=grey&style=flat" alt="Profile views" />
 </p>
 
-
 [![Sherzod's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sherzod0220&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-
   <img src="https://github-readme-stats.vercel.app/api?username=sherzod0220&show_icons=true&locale=en&theme=dark&bg_color=151515" alt="GitHub Stats" style="width: 33%;" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sherzod0220&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=151515" alt="Top Languages" style="width: 33%;" />
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sherzod0220&theme=dark" alt="GitHub Streak" style="width: 33%;" />
-
 </div>
 
-
-
 ---
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
