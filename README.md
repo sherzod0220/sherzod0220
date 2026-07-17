@@ -6,7 +6,7 @@
 ### 🙋‍♂️ About Me:
 - 👨‍💻 Frontend Developer from Uzbekistan with a passion for building beautiful and efficient web applications.
 - 💻 Skilled in React JS,JavaScript, Tanstack Query, TypeScript, Tailwind CSS, Bootstrap, HTML, CSS, Antd design, Material UI. Constantly learning and improving my skills.
-- 🎓 Graduated with a degree in Economics and Network and Sectors from QARMII Institute.
+- 🎓 Graduated with a degree in Economics and Network and Sectors from QarDT University.
 - ⚡ Curious, hardworking, and always ready to explore new technologies and ideas.
 
 ---
